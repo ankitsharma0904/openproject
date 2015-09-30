@@ -57,13 +57,9 @@ See [doc/COPYRIGHT.rdoc](doc/COPYRIGHT.rdoc) for details.
 
 ## Credits
 
-### Icons
-
-Thanks to Vincent Le Moign and his fabulous Minicons icons on [webalys.com](http://www.webalys.com/minicons/icons-free-pack.php).
-
-### Lato Font
-
-Thanks to Łukasz Dziedzic (aka "tyPoland") for his 'Lato' font.
+### Ankit Sharma
+  forked from opf/openproject
+  
 
 ### OpenProject Icon Font
 Published and created by the OpenProject Foundation (OPF) under [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
